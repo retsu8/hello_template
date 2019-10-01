@@ -23,6 +23,6 @@ const config = {
          test: /\.css$/,
          loader: 'style-loader!css-loader?modules'
   }]
- }
+ },
 };
 module.exports = config;
